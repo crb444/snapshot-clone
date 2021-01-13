@@ -1,0 +1,20 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__logo {
+  object-fit: contain;
+  height: 250px;
+}
+
+.login > .MuiButton-root {
+  background-color: #3db2e4 !important;
+  color: white;
+  font-size: 24px;
+  margin-top: 90px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 35px;
+}

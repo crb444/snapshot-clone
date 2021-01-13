@@ -1,0 +1,19 @@
+.logoutalert__disagree {
+  background-color: #ea2853 !important;
+  color: white !important;
+}
+
+.logoutalert__agree {
+  background-color: #3db2e1 !important;
+  color: white !important;
+}
+
+.logoutalert__disagree:hover {
+  color: #ea2853 !important;
+  background-color: white !important;
+}
+
+.logoutalert__agree:hover {
+  color: #3db2e1 !important;
+  background-color: white !important;
+}

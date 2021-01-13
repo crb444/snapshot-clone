@@ -1,0 +1,16 @@
+.view {
+  position: relative;
+  height: 1000px;
+  width: 550px;
+  background-color: black;
+  display: grid;
+  place-items: center;
+}
+
+.view__timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 20px;
+  font-size: 30px;
+}

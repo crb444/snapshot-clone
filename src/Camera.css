@@ -1,0 +1,15 @@
+.camera {
+  position: relative;
+  display: grid;
+  place-items: center;
+  background-color: black;
+}
+
+.camera__button {
+  position: absolute;
+  bottom: 35px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 60px !important;
+}
